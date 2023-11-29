@@ -56,7 +56,8 @@
 }
 
 .empresa-titulo {
-  font-size: 1.125rem;
+  font-family: 'Rasa', serif;
+  font-size: 1.375rem;
   line-height: 1.1;
   font-weight: bold;
 }
