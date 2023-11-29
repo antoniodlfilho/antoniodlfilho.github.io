@@ -1,4 +1,9 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="98.9949" width="120" height="20" transform="rotate(-45 0 98.9949)" fill="#70DA1C"/>
-<rect x="28.2842" y="98.9949" width="120" height="20" transform="rotate(-45 28.2842 98.9949)" fill="#CCF235"/>
+<svg width="4" height="20" viewBox="0 0 4 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4" height="20" fill="url(#paint0_linear_15_202)"/>
+<defs>
+<linearGradient id="paint0_linear_15_202" x1="2" y1="0" x2="2" y2="20" gradientUnits="userSpaceOnUse">
+<stop stop-color="#55CCFF"/>
+<stop offset="1" stop-color="#2899D9"/>
+</linearGradient>
+</defs>
 </svg>

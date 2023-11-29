@@ -24,11 +24,12 @@ img {
 }
 
 .subtitulo {
-  font-size: 8rem;
-  line-height: 1;
+  font-family: 'Rasa', serif;
+  font-size: 9rem;
+  line-height: 0.9;
   text-transform: uppercase;
   word-break: break-all;
-  max-width: 4ch;
+  max-width: 5ch;
 }
 
 @media (max-width: 800px) {
