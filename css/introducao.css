@@ -35,7 +35,7 @@
 
 @media (max-width: 1000px) {
   .introducao h1 {
-    font-size: 3rem;
+    font-size: 4rem;
   }
 }
 
@@ -46,7 +46,7 @@
   }
 
   .introducao h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   .introducao h1::before {
@@ -57,12 +57,20 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .intriducao {
     grid-template-columns: 1fr;
   }
   
+  .introducao h1 {
+    margin-bottom: 15px;
+  }
+
   .introducao img {
     display: none;
+  }
+
+  .introducao p {
+    font-size: 1.2rem;
   }
 }
